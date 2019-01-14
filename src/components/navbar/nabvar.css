@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Source+Sans+Pro');
+
+* {
+  box-sizing: border-box;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  padding: 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+
+.navigation {
+  background-color: #222222;
+  display: flex;
+  align-items:center;
+  height: auto;
+}
+
+.navigation--logo {
+  margin-left: 15px;
+  margin-right: 25px;
+}
+
+.navigation--pipes {
+  color: white;
+  font-size: 18px;
+}
+
+.navigation--element {
+  font-size: 18px;
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+}
+
+.navigation--uno li {
+  margin-right: 25px;
+}
+
+.navigation--dos li {
+  margin-right: 27px;
+}
+
+.navigation--dos li a {
+  color:#2196F3
+}
+
+.navigation--tres {
+  background-color: #FFC107;
+  padding: 0 10px;
+  font-size: 20px;
+}
+
+.fa-shopping-cart {
+  background-color: #FFC107;
+  font-size: 15px;
+}
+
+.navigation--tres ul {
+  background-color: #FFC107;
+}
+
+.navigation--tres ul li {
+  color: black;
+}
+
+.navigation--shopping--cart--button {
+  background-color: #FFC107;
+  border: none;
+}
+
+.selected {
+  color: peru;
+}

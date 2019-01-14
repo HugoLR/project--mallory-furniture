@@ -1,0 +1,66 @@
+.all--container {
+  margin-top: 30px;
+  padding: 10px
+}
+
+.all--products--title {
+  font-family: 'Playfair Display', serif;
+  color:#222222;
+  margin: 0;
+}
+
+.all--products--subtitle {
+  color: #999999;
+  font-size: 14px;
+  margin: 0;
+}
+
+.all--buttons {
+  margin-top: 15px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.first--button {
+  border: 1px solid #F44346;
+  color: #F44346;
+}
+
+.all--products--first--button {
+  border:1px solid #2196F3;
+  color: #2196F3;
+}
+.all--products--second--button {
+  border:1px solid #999999;
+  color: #999999;
+}
+
+.all--products--button {
+  font-size: 20px;
+  padding: 15px;
+  margin-right: 10px;
+}
+
+.all--counter {
+  padding: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.all--items {
+  font-size: 30px;
+  margin-right: 5px;
+}
+
+.feature--product--type {
+  color: #222222;
+  font-weight: bold;
+  margin-left: 10px;
+  font-size: 18px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.all--items--number {
+  color:#FFC107;
+}

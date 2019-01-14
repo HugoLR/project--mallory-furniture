@@ -1,0 +1,15 @@
+.terms--tittle {
+  color: #F44336;
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+
+.terms--container {
+  padding: 20px;
+}
+
+
+.terms--subtittle {
+  font-family: 'Playfair Display', serif;
+  color: #222222;
+}

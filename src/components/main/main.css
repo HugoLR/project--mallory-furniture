@@ -1,0 +1,25 @@
+.principal--section--title,
+.principal--section--subtitle {
+  color: white;
+}
+
+.principal--section--title {
+  font-family: 'Playfair Display', serif;
+  font-size: 45px;
+}
+
+.principal--section--subtitle {
+  margin: 0;
+  font-size: 20px;
+}
+
+
+.principal--section {
+  height: 400px;
+  background-image: url('../../images/landing-splash-bg.png');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

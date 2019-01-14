@@ -1,0 +1,21 @@
+.category--image--cover {
+  width: 100%;
+}
+
+.category--title {
+  margin: 20px 0 0 10px;
+  font-family: 'Playfair Display', serif;
+  color:#222222;
+  font-size: 30px;
+}
+
+.category--subtitle {
+  margin-left: 10px;
+  color: #999999;
+  font-size: 20px;
+  margin-top: 0;
+}
+
+.category--product {
+  color:#222222;
+}

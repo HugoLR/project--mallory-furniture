@@ -1,0 +1,40 @@
+.categories--title,
+.categories--subtitle {
+  margin: 0;
+}
+
+.categories {
+  padding: 10px;
+  margin-top: 30px;
+}
+
+.categories--title {
+  font-family: 'Playfair Display', serif;
+  color:#222222;
+}
+
+.categories--subtitle {
+  color: #999999;
+  font-size: 14px;
+}
+
+.buttons-categories {
+  width: 85%;
+  margin: auto;
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.category--button {
+  text-align: center;
+  border: 1px solid #2196F3;
+  color: #2196F3;
+  width: 20%;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  padding: 15px 0;
+  font-weight: bold;
+  font-size: 20px;
+}

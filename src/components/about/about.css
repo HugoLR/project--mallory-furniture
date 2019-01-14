@@ -1,0 +1,14 @@
+.about--tittle {
+  color: #F44336;
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+
+.about--subtittle {
+  font-family: 'Playfair Display', serif;
+  color: #222222;
+}
+
+.about--container {
+  padding: 20px;
+}
